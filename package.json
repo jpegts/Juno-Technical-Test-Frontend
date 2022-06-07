@@ -16,7 +16,7 @@
     "vue-sweetalert2": "^5.0.5"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^1.2.2",
+    "@vitejs/plugin-vue": "^1.10.2",
     "@vue/compiler-sfc": "^3.0.11",
     "autoprefixer": "^10.2.5",
     "cross-env": "^7.0.3",
